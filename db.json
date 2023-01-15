@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Pedro Gonzales",
+      "password": "hello",
+      "email": "avaluospg.dev@gmail.com"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
