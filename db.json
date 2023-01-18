@@ -8,10 +8,12 @@
    ],
    "avaluos":[
       {
-         "name1":"Maria del Carmen",
-         "name2":"Juan Pedro",
-         "fecha1":"24/01/2023",
-         "fecha2":"11/03/2023"
+         "name":"Maria del Carmen",
+         "fecha":"24/01/2023"
+      },
+      {
+         "name":"Juan Pedro",
+         "fecha":"11/03/2023"
       }
    ]
 }
