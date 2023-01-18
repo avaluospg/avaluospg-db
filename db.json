@@ -1,9 +1,8 @@
 {
   "users": [
     {
-      "name": "Pedro Gonzales",
-      "password": "hello",
-      "email": "avaluospg.dev@gmail.com"
+      "email": "avaluospg.dev@gmail.com",
+      "password": "hello"
     }
   ]
 }
