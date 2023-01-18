@@ -8,12 +8,12 @@
    ],
    "avaluos":[
       {
-         "nro":1
+         "nro":1,
          "name":"Maria del Carmen",
          "fecha":"24/01/2023"
       },
       {
-         "nro":2
+         "nro":2,
          "name":"Juan Pedro",
          "fecha":"11/03/2023"
       }
